@@ -1,8 +1,18 @@
-# LinkSnap
+<p align="center">
+  <img src="docs/icon.jpg" alt="LinkSnap" width="128">
+</p>
+
+<h1 align="center">LinkSnap</h1>
+
+<p align="center">Full-page screenshots from a list of URLs — free and open source for Windows.</p>
 
 LinkSnap is a free, open-source Windows app for capturing full-page screenshots from a list of URLs.
 
 Paste or load your links, choose a mobile, tablet, laptop, or desktop viewport, and capture every page in one batch. It is useful for developers checking responsive websites, creating visual references, or archiving multiple pages without opening them one by one.
+
+<p align="center">
+  <img src="docs/view.jpg" alt="LinkSnap desktop app" width="640">
+</p>
 
 ## Features
 
